@@ -1,4 +1,5 @@
-# Ex.No:1 <p align="center">Mean and variance of a discrete  distribution</p>
+# Exp.No:1 Mean and variance of a discrete  distribution
+## Date:
 
 ## Aim : 
 
